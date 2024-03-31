@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ayushsi91546905" target="blank"><img src="https://img.shields.io/twitter/follow/ayushsi91546905?logo=twitter&style=for-the-badge" alt="ayushsi91546905" /></a> </p>
 
-- 🌱 I’m currently learning **AWSA**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TRONxLegend](https://github.com/TRONxLegend)
 
