@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Singh</h1>
 <h3 align="center">A passionate frontend developer and devops engineer from India.With a keen interest in crafting user-friendly interfaces and optimizing development workflows, I'm dedicated to leveraging technology for innovation. I excel in collaborative environments, where I contribute expertise to deliver impactful results.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tronxlegend&label=Profile%20views&color=0e75b6&style=flat" alt="tronxlegend" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tronxlegend&label=Profile%20views&color=0e75b6&style=flat" alt="tronxlegend"/> </p>
 
 <p align="left"> <a href="https://twitter.com/ayushsi91546905" target="blank"><img src="https://img.shields.io/twitter/follow/ayushsi91546905?logo=twitter&style=for-the-badge" alt="ayushsi91546905" /></a> </p>
 
